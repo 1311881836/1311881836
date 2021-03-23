@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1311881836
 - 👀 I’m interested in playing basketball
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python lanuage
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me QQ:1311881836
 
 <!---
 1311881836/1311881836 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
