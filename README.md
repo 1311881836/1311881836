@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @1311881836
 - 👀 I’m interested in playing basketball
-- 🌱 I’m currently learning python lanuage
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python 
 - 📫 How to reach me QQ:1311881836
 
 <!---
